@@ -1,0 +1,33 @@
+Carname	km	year	Location	Price
+VW Up! 1,0 60 Move Up! BMT 3d	99.000	2014	København	46.000 kr.
+Kia Picanto 1,2 Motion+ Eco 5d	119.000	2013	København	46.500 kr.
+Citroën C1 1,0 e-VTi 68 Scoop 5d	144.000	2015	Fyn	46.900 kr.
+Toyota Aygo 1,0 VVT-i T2 Air MMT 5d	138.000	2012	Nordsjælland	47.900 kr.
+Toyota Aygo 1,0 VVT-i T1 Air 5d	48.000	2012	Syd- og Vestsjælland	48.000 kr.
+Renault Twingo 1,0 SCe 70 Expression 5d	89.000	2015	Østjylland	48.500 kr.
+Citroën C4 1,4 VTi Attraction 5d	150.000	2012	København	49.000 kr.
+Peugeot 208 1,0 VTi Access 5d	132.000	2012	København	49.500 kr.
+Renault Twingo 1,0 SCe 70 Dynamique 5d	47.000	2015	København	49.500 kr.
+Chevrolet Aveo 1,2 LTZ 5d	84.000	2013	København	49.700 kr.
+Chevrolet Aveo 1,2 LT ECO 5d	82.000	2012	København	49.800 kr.
+Peugeot 208 1,0 VTi Access 5d	147.000	2012	København	49.900 kr.
+Kia Picanto 1,2 Exclusive 5d	121.000	2012	København	49.900 kr.
+Skoda Citigo 1,0 60 Ambition GreenTec 5d	135.000	2014	Fyn	49.995 kr.
+Peugeot 208 1,0 VTi Access 3d	138.000	2012	København	50.000 kr.
+Skoda Citigo 1,0 60 Ambition 5d	70.300	2013	Syd- og Vestsjælland	50.000 kr.
+Kia Rio 1,2 CVVT Motion 5d	113.000	2013	København	52.000 kr.
+Toyota Aygo 1,0 VVT-i T1 5d	61.000	2012	Nordsjælland	52.000 kr.
+Chevrolet Cruze 1,8 LT 5d	131.000	2012	København	53.700 kr.
+Renault Twingo 1,0 SCe 70 Expression 5d	72.000	2015	Østjylland	54.000 kr.
+Suzuki Celerio 1,0 Comfort 5d	42.000	2015	København	54.500 kr.
+VW Up! 1,0 60 Cheer Up! BMT 5d	120.000	2014	København	54.800 kr.
+Citroën C1 1,2 PureTech 82 Sport 5d	103.000	2017	Syd- og Sønderjylland	54.800 kr.
+Skoda Citigo 1,0 60 Ambition GreenTec 5d	146.000	2013	Syd- og Sønderjylland	54.900 kr.
+Hyundai i10 1,0 Go Air 5d	86.000	2015	Syd- og Sønderjylland	54.900 kr.
+Seat Mii 1,0 60 Style eco 5d	97.000	2014	Syd- og Vestsjælland	54.995 kr.
+Citroën C1 1,0 e-VTi 68 Scoop Airscape 5d	137.000	2015	Østjylland	54.995 kr.
+Opel Adam 1,2 Jam 3d	150.000	2013	Syd- og Sønderjylland	55.000 kr.
+Opel Corsa 1,0 12V Enjoy 5d	24.000	2013	Syd- og Vestsjælland	55.000 kr.
+Peugeot 208 1,2 VTi Allure 5d	130.000	2014	Fyn	55.000 kr.
+Fiat 500 0,9 TwinAir 65 Pop 3d	71.000	2013	København	55.000 kr.
+Suzuki Swift 1,2 Cruise S ECO+ 5d	97.000	2012	Nordjylland	55.000 kr.
